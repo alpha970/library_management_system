@@ -76,9 +76,7 @@ This project is built with :
 
 ### Student app
 
-We need this for writing our authentication views as well as student & department models. Student model has the first+last name ,department foreignkey and studentID which is one-to-one field to Django' User model. We use Django's User Model for authentication . There will be 3 views: login,signup and logout. The urls will have `/student/< login or signup or logout >/`.
-
-### Library app
+We need this for writing our authentication views as well as student & department models. Student model has the first+last name ,department foreignkey and studentID which is one-to-one field to Django' User model. We use Django's User Model for authentication .
 
 This is our main app where we will write our library system's main logic. It comprises of 4 models:
 
