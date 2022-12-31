@@ -1,8 +1,9 @@
 # Library Management System
 
-This is a simple library management system built for Major Project 2021 by Abhik Bhattacharya (id : 181001102058) & Saikat Shee (id : 181001102053 )
+This is a simple library management system built for data project 2022 by Alpha mohamed Kaba, Bah lamine Ouattara,AGOSSOU Ayédoun Regis Herman, COMPAORE Wendmi Tobi Luzine Fasise et OUAFKI Anas
 
-<!-- ### It is deployed [here](https://abhik-b.github.io/pomodro-timer/) -->
+
+
 
 This project is built with :
 
