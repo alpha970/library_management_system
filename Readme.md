@@ -1,6 +1,6 @@
 # Library Management System
 
-This is a simple library management system built for data project 2022 by Alpha mohamed Kaba, Bah lamine Ouattara,AGOSSOU Ayédoun Regis Herman, COMPAORE Wendmi Tobi Luzine Fasise et OUAFKI Anas
+This is a simple library management system built for database project 2022 by Alpha mohamed Kaba, Bah lamine Ouattara,AGOSSOU Ayédoun Regis Herman, COMPAORE Wendmi Tobi Luzine Fasise et OUAFKI Anas
 
 
 
@@ -22,7 +22,7 @@ This project is built with :
 
 ##### Student can
 
-1.  login / signup ,
+1.  login ,
 2.  can request book
 3.  see their own issues and filter them based on :
 
